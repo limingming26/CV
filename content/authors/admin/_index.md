@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 李鸣明
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mingming Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mingming 
+last_name: Li
 
 # Status emoji
 status:
