@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mingming.li@uibk.ac.at'
+    url: mingming.li@uibk.ac.at
   - icon: academicons/google-scholar
     url: [https://scholar.google.com/](https://scholar.google.com/citations?user=sv3-5nwAAAAJ&hl=en)
 
