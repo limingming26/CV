@@ -32,7 +32,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:mingming.li@uibk.ac.at'
-    label: E-mail Me
   - icon: academicons/google-scholar
     url: [https://scholar.google.com/](https://scholar.google.com/citations?user=sv3-5nwAAAAJ&hl=en)
 
