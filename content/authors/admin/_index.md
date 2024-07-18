@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/30d683a3-26aa-4df6-84da-5d3a2da6460d)---
 # Display name
 title: 李鸣明
 
@@ -41,37 +41,28 @@ interests:
   - Environmental Economics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MPhil in Economics
+    institution: Central European University
+    date_start: 2018-09-01
+    date_end: 2021-12-31
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - area: MA in Economics
+    institution: Corvinus University of Budapest
+    date_start: 2016-09-01
+    date_end: 2018-06-31
+
+  - area: BA Economics
+    institution: Sichuan University
+    date_start: 2012-09-01
+    date_end: 2016-06-31
+
+  - area: BA Journalism
+    institution: Sichuan University
+    date_start: 2012-09-01
+    date_end: 2016-06-31
+
+  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
