@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30d683a3-26aa-4df6-84da-5d3a2da6460d)---
+![image](https://github.com/user-attachments/assets/63f9ab9c-4aee-4b52-832e-80ade1c1e1b5)![image](https://github.com/user-attachments/assets/5bf8fbba-8075-4e74-b0f8-4495e69b937f)![image](https://github.com/user-attachments/assets/9bca75b9-b85b-4547-a010-32c2107a34f0)![image](https://github.com/user-attachments/assets/30d683a3-26aa-4df6-84da-5d3a2da6460d)---
 # Display name
 title: 李鸣明
 
@@ -74,44 +74,36 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Professional Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: STATA
+        description: 'Proficient'
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Python
+        description: 'Proficient'
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: SPSS
+        description: 'Intermediate'
         icon: circle-stack
-  - name: Hobbies
+        
+  - name: General skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
+      - name: Latex
+        description: 'Intermediate'
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
+      - name: Microsoft Office
+        description: 'Intermediate'
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    description: 'Native Speaker'
+  - name: English
+    description: 'Proficient'
+  - name: German
+    description: 'Intermediate'
 
 # Awards.
 #   Add/remove as many awards below as you like.
